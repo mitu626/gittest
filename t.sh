@@ -5,3 +5,5 @@ for((i=0;i<10;i++)); do
 done
 
 exit 0;
+
+echo "somethin t"
