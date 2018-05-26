@@ -9,3 +9,4 @@ fi
 
 echo "add something new in board.sh"
 echo "add something in new2"
+echo "add something in new3"
