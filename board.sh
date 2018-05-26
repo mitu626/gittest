@@ -8,3 +8,4 @@ else
 fi
 
 echo "add something new in board.sh"
+echo "add something in new2"
